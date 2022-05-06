@@ -9,3 +9,10 @@ git pull
 HTML (Optional)
 live server (Compulsory)
 code runner (Compulsory)
+
+//val
+
+// Ways
+--Navbar : (2)
+    Manually
+    bootstrap

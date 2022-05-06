@@ -1,8 +1,10 @@
 const txtvalue = document.getElementById('exampleFormControlInput1')
 const gobtn = document.getElementById('gobtn')
 
-// nameless function means direct execut
+// nameless function means direct execute
 
-gobtn.addEventListener('click',function(){
-    alert("Welcome " + txtvalue.value)
+
+const contactbtn = document.getElementById('contactbtn')
+contactbtn.addEventListener('click', function(){
+    window.open('mailto:redskull@duck.com')
 })

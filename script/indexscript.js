@@ -6,5 +6,5 @@ const gobtn = document.getElementById('gobtn')
 
 const contactbtn = document.getElementById('contactbtn')
 contactbtn.addEventListener('click', function(){
-    window.open('mailto:redskull@duck.com')
+    window.open('')
 })

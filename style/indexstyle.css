@@ -125,3 +125,35 @@
     color: aliceblue;
     font-size: 22px;
 }
+
+#bot{
+    position: fixed;
+    top: 90%;
+    left: 5%;
+    font-size: 35px;
+    color: aqua;
+    transform: translate(-50%,-50%);
+    color: aliceblue;
+    z-index: 22;
+}
+
+#botvalue{
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: aliceblue;
+    height: 300px;
+    width: 200px;
+    border-radius: 14px;
+    position: fixed;
+    top: 35%;
+    left: 5%;
+    transition: 1s;
+}
+
+#botmes{
+    background-color: black;
+    color: aliceblue;
+    height: fit-content;
+    width: fit-content;
+}

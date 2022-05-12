@@ -16,3 +16,17 @@ code runner (Compulsory)
 --Navbar : (2)
     Manually
     bootstrap
+
+//class
+    Unlimited
+//id
+    only one
+
+//LAYERS
+
+//variables
+    var == (number) change js ex6
+    const => const = 1
+             const++ 
+    final == real constant
+    let == koi bhi change
